@@ -1,2 +1,6 @@
 12345  txt change
+<<<<<<< HEAD
 Creating master is quick AND simple.
+=======
+Creating master is quick AND simple.
+>>>>>>> feature1
