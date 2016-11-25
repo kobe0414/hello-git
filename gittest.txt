@@ -1,7 +1,7 @@
 12345  txt change
-<<<<<<< HEAD
+<<<<<<< JARRY
 Creating master is quick AND simple.
 =======
 Creating master is quick AND simple.
 >>>>>>> 123123
-123
+8888888888888888888888
