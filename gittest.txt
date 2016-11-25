@@ -3,5 +3,5 @@
 Creating master is quick AND simple.
 =======
 Creating master is quick AND simple.
->>>>>>> aaaee
-hello world 
+>>>>>>> 123123
+123
